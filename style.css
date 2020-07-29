@@ -1,0 +1,197 @@
+html * {
+    margin: 0px;
+    text-align: center;
+}
+
+img {
+    width: 98%;
+    margin: 10px;
+}
+
+body {
+    background-color: #686366;
+}
+
+#menu {
+    border: 3px double rgba(187, 179, 179, 0.925);
+    margin: 5px;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+#menu a {
+    color: #c2909b;
+    margin: 70px;
+    text-decoration: none;
+}
+
+#menu a:hover{
+    color: #000000;
+}
+
+#título1 {
+    color: #F8F8FF;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    font-size: 60px;
+    margin: 30px;
+}
+
+#título2 {
+    color: #F8F8FF;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    font-size: 90px;
+    margin: 0px 50px 50px 0px;
+}
+
+#título3 {
+    color: #F8F8FF;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    font-size: 50px;
+    margin: 0px 50px 50px 0px;
+}
+
+#título4 {
+    color: #F8F8FF;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    font-size: 90px;
+    margin: 400px 50px 70px 0px;
+}
+
+#título5 {
+    color: #F8F8FF;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    font-size: 90px;
+    margin: 0px 50px 50px 0px;
+}
+
+.texto1 {
+    color: #000000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px 300px;
+    padding: 20px;
+    text-align: center;
+    font-size: medium;
+    background-color: white;
+    opacity: 0.5;
+}
+
+.texto2 {
+    margin: 0px 300px;
+    padding: 20px;
+    color: #000000;
+    background-color: white;
+    opacity: 0.5;
+}
+
+.texto3 {
+    margin: 0px 300px;
+    padding: 20px;
+    color: #000000;
+    background-color: white;
+    opacity: 0.5;
+}
+
+.texto4 {
+    margin: 0px 300px;
+    padding: 20px;
+    color: #000000;
+    background-color: white;
+    opacity: 0.5;
+}
+
+.texto5 {
+    margin: 0px 300px;
+    padding: 20px;
+    color: #000000;
+    background-color: white;
+    opacity: 0.5;
+}
+
+.caixa1 {
+    background-image: url(kit\ chakra.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px;
+    padding-top: 50px;
+    padding-bottom: 800px;
+}
+
+.caixa2 {
+    background-image: url(pampeano3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px;
+    padding-top: 50px;
+    padding-bottom: 800px;
+}
+
+.caixa3 {
+    background-image: url(invertida.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px;
+    padding-top: 50px;
+    padding-bottom: 800px;
+}
+
+.caixa4 {
+    background-image: url(restaurativa.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position-x: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px;
+    padding-top: 50px;
+    padding-bottom: 300px;
+}
+
+.caixa5 {
+    background-image: url(torção2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px;
+    padding-top: 50px;
+    padding-bottom: 800px;
+}
+
+#linktree {
+    margin: 10px 0px 0px 0px;
+}
+
+#linktree a{
+    border: 3px double rgba(187, 179, 179, 0.925);
+    color: #c2909b;
+    margin: 5px;
+    padding: 0px 30px;
+    font-family: monospace;
+    text-decoration:none;
+}
+
+#linktree a:hover {
+    color: #000000;
+    background-color:  #FFDAC1;
+    text-decoration: none;
+}
+
+#faixa {
+    object-fit: cover;
+    height: 500px;
+}
+
+.fotos {
+    margin: 10px 20px;       
+}
